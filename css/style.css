@@ -43,8 +43,6 @@ li {
 header {
     grid-area: hd;
     background: #009688;
-    position: fixed;
-    
 }
 
 .navation-list {
